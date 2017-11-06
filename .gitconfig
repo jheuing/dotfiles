@@ -1,0 +1,16 @@
+[user]
+	name = Jan-Hendrik Heuing
+	email = jh@ivi-solutions.com
+	signingkey = 2EA6172737F9C2F5
+[core]
+	excludesfile = ~/.gitignore-global
+[branch]
+	autosetuprebase = always
+[push]
+	default = current
+[difftool]
+	prompt = false
+[mergetool]
+	prompt = false
+[commit]
+	gpgsign = true
